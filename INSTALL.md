@@ -1,6 +1,6 @@
 # Installing Udacity-React-Myreads
 
-To Install this package using the following command:
+To install this package use the following:
 
 `npm install`
 
