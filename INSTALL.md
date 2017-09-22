@@ -1,6 +1,6 @@
 # Installing Udacity-React-Myreads
 
-_Copyright (c) 2017, Stephen D. Wells. All rights reserved._
+To Install this package using the following command:
 
 `npm install`
 
@@ -14,10 +14,9 @@ as:
 
 Most python installations install older versions that can be called explicitly
 using their version number and the library supports setting an environment
-variable to point to it. In my case for instance you I was able to successfully
+variable to point to it. In my case for instance, I was able to successfully
 install using:
 
 `PYTHON=/usr/bin/python2.7 npm install`
 
-Your mileage my vary as you will need to locate where python2.7 is on your 
-server.
+Your mileage my vary as you will need to locate _python2.7_ on your server.
