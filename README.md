@@ -33,8 +33,8 @@ You can bookmark your searches by formatting your url thus:
 
 /search?query=KEYWORD
 
-for instance `/search?query=React` will returns results as
-if you had typed _React_ into the search bar.
+for instance `/search?query=React` returns results as if you had typed _React_ 
+into the search bar.
 
 ## FILES
 
@@ -48,7 +48,7 @@ if you had typed _React_ into the search bar.
 - complete list of _shelves_ with books
 
 #### SearchBooks
-- search page with single _shelf_ of results
+- search page
 
 ## AUTHOR
 
